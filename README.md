@@ -1,5 +1,6 @@
 # README
 
-## contributors
+## Contributor
 
+- Ryan
 - Bob
